@@ -1,3 +1,9 @@
 [submodule "FFmpeg"]
 	path = FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg
+[submodule "opus"]
+	path = opus
+	url = https://github.com/xiph/opus.git
+[submodule "libvpx"]
+	path = libvpx
+	url = https://github.com/webmproject/libvpx.git
